@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Victor\\Documents\\C#\\ProvaGeopointer\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8C76AF3E-F3CD-4CDA-A1F1-24D5DC83960D}|ApiEquipament\\ApiEquipament.csproj|c:\\users\\victor\\documents\\c#\\provageopointer\\apiequipament\\context\\equipamentocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C76AF3E-F3CD-4CDA-A1F1-24D5DC83960D}|ApiEquipament\\ApiEquipament.csproj|solutionrelative:apiequipament\\context\\equipamentocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8C76AF3E-F3CD-4CDA-A1F1-24D5DC83960D}|ApiEquipament\\ApiEquipament.csproj|c:\\users\\victor\\documents\\c#\\provageopointer\\apiequipament\\model\\equipamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C76AF3E-F3CD-4CDA-A1F1-24D5DC83960D}|ApiEquipament\\ApiEquipament.csproj|solutionrelative:apiequipament\\model\\equipamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C76AF3E-F3CD-4CDA-A1F1-24D5DC83960D}|ApiEquipament\\ApiEquipament.csproj|c:\\users\\victor\\documents\\c#\\provageopointer\\apiequipament\\apiequipament.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8C76AF3E-F3CD-4CDA-A1F1-24D5DC83960D}|ApiEquipament\\ApiEquipament.csproj|solutionrelative:apiequipament\\apiequipament.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +27,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "EquipamentoContext.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Documents\\C#\\ProvaGeoPointer\\ApiEquipament\\Context\\EquipamentoContext.cs",
+              "RelativeDocumentMoniker": "ApiEquipament\\Context\\EquipamentoContext.cs",
+              "ToolTip": "C:\\Users\\Victor\\Documents\\C#\\ProvaGeoPointer\\ApiEquipament\\Context\\EquipamentoContext.cs",
+              "RelativeToolTip": "ApiEquipament\\Context\\EquipamentoContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T20:23:25.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApiEquipament",
+              "DocumentMoniker": "C:\\Users\\Victor\\Documents\\C#\\ProvaGeoPointer\\ApiEquipament\\ApiEquipament.csproj",
+              "RelativeDocumentMoniker": "ApiEquipament\\ApiEquipament.csproj",
+              "ToolTip": "C:\\Users\\Victor\\Documents\\C#\\ProvaGeoPointer\\ApiEquipament\\ApiEquipament.csproj",
+              "RelativeToolTip": "ApiEquipament\\ApiEquipament.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-31T20:22:02.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Equipamento.cs",
               "DocumentMoniker": "C:\\Users\\Victor\\Documents\\C#\\ProvaGeopointer\\ApiEquipament\\Model\\Equipamento.cs",
               "RelativeDocumentMoniker": "ApiEquipament\\Model\\Equipamento.cs",
               "ToolTip": "C:\\Users\\Victor\\Documents\\C#\\ProvaGeopointer\\ApiEquipament\\Model\\Equipamento.cs",
               "RelativeToolTip": "ApiEquipament\\Model\\Equipamento.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAABcAAAABAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAUAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-30T15:39:00.11Z",
               "EditorCaption": ""
