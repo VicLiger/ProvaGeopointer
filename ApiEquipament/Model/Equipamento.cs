@@ -19,4 +19,10 @@ namespace ApiEquipament.Model
         
         [Required]
         [Url(ErrorMessage = "O campo deve ser uma url válida")] 
-        public string File { get; set; } // É O ESTADO DE CONSTRUÇÃO COM RELAÇÃO A MAQUETE[Required][StringLength(200, ErrorMessage = "O estado deve ter tamanho máximo de 200 caracteres")]public string State { get; set; }}}
+        public string File { get; set; } // É O ESTADO DE CONSTRUÇÃO COM RELAÇÃO A MAQUETE
+                                        
+        [Required]
+        [StringLength(200, ErrorMessage = "O estado deve ter tamanho máximo de 200 caracteres")]
+        public string State { get; set; }
+    }
+}

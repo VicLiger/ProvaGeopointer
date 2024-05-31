@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Victor\\Documents\\C#\\ProvaGeoPointer\\ApiEquipament\\ApiEquipament.csproj": {}
+    "C:\\Users\\Victor\\Documents\\C#\\ProvaGeopointer\\ApiEquipament\\ApiEquipament.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Victor\\Documents\\C#\\ProvaGeoPointer\\ApiEquipament\\ApiEquipament.csproj": {
+    "C:\\Users\\Victor\\Documents\\C#\\ProvaGeopointer\\ApiEquipament\\ApiEquipament.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Victor\\Documents\\C#\\ProvaGeoPointer\\ApiEquipament\\ApiEquipament.csproj",
+        "projectUniqueName": "C:\\Users\\Victor\\Documents\\C#\\ProvaGeopointer\\ApiEquipament\\ApiEquipament.csproj",
         "projectName": "ApiEquipament",
-        "projectPath": "C:\\Users\\Victor\\Documents\\C#\\ProvaGeoPointer\\ApiEquipament\\ApiEquipament.csproj",
+        "projectPath": "C:\\Users\\Victor\\Documents\\C#\\ProvaGeopointer\\ApiEquipament\\ApiEquipament.csproj",
         "packagesPath": "C:\\Users\\Victor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Victor\\Documents\\C#\\ProvaGeoPointer\\ApiEquipament\\obj\\",
+        "outputPath": "C:\\Users\\Victor\\Documents\\C#\\ProvaGeopointer\\ApiEquipament\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
