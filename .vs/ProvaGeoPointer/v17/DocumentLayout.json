@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Victor\\Documents\\C#\\ProvaGeopointer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7B697408-A4CE-4B99-AAA7-4EC5AE9BDCD1}|EquipamentoApi\\EquipamentoApi.csproj|c:\\users\\victor\\documents\\c#\\provageopointer\\equipamentoapi\\controllers\\equipamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B697408-A4CE-4B99-AAA7-4EC5AE9BDCD1}|EquipamentoApi\\EquipamentoApi.csproj|solutionrelative:equipamentoapi\\controllers\\equipamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7B697408-A4CE-4B99-AAA7-4EC5AE9BDCD1}|EquipamentoApi\\EquipamentoApi.csproj|c:\\users\\victor\\documents\\c#\\provageopointer\\equipamentoapi\\models\\equipamentomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B697408-A4CE-4B99-AAA7-4EC5AE9BDCD1}|EquipamentoApi\\EquipamentoApi.csproj|solutionrelative:equipamentoapi\\models\\equipamentomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7B697408-A4CE-4B99-AAA7-4EC5AE9BDCD1}|EquipamentoApi\\EquipamentoApi.csproj|c:\\users\\victor\\documents\\c#\\provageopointer\\equipamentoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{7B697408-A4CE-4B99-AAA7-4EC5AE9BDCD1}|EquipamentoApi\\EquipamentoApi.csproj|solutionrelative:equipamentoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B697408-A4CE-4B99-AAA7-4EC5AE9BDCD1}|EquipamentoApi\\EquipamentoApi.csproj|c:\\users\\victor\\documents\\c#\\provageopointer\\equipamentoapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B697408-A4CE-4B99-AAA7-4EC5AE9BDCD1}|EquipamentoApi\\EquipamentoApi.csproj|solutionrelative:equipamentoapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7B697408-A4CE-4B99-AAA7-4EC5AE9BDCD1}|EquipamentoApi\\EquipamentoApi.csproj|c:\\users\\victor\\documents\\c#\\provageopointer\\equipamentoapi\\controllers\\equipamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B697408-A4CE-4B99-AAA7-4EC5AE9BDCD1}|EquipamentoApi\\EquipamentoApi.csproj|solutionrelative:equipamentoapi\\controllers\\equipamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B697408-A4CE-4B99-AAA7-4EC5AE9BDCD1}|EquipamentoApi\\EquipamentoApi.csproj|c:\\users\\victor\\documents\\c#\\provageopointer\\equipamentoapi\\models\\equipamentomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B697408-A4CE-4B99-AAA7-4EC5AE9BDCD1}|EquipamentoApi\\EquipamentoApi.csproj|solutionrelative:equipamentoapi\\models\\equipamentomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7B697408-A4CE-4B99-AAA7-4EC5AE9BDCD1}|EquipamentoApi\\EquipamentoApi.csproj|c:\\users\\victor\\documents\\c#\\provageopointer\\equipamentoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B697408-A4CE-4B99-AAA7-4EC5AE9BDCD1}|EquipamentoApi\\EquipamentoApi.csproj|solutionrelative:equipamentoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B697408-A4CE-4B99-AAA7-4EC5AE9BDCD1}|EquipamentoApi\\EquipamentoApi.csproj|c:\\users\\victor\\documents\\c#\\provageopointer\\equipamentoapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B697408-A4CE-4B99-AAA7-4EC5AE9BDCD1}|EquipamentoApi\\EquipamentoApi.csproj|solutionrelative:equipamentoapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B697408-A4CE-4B99-AAA7-4EC5AE9BDCD1}|EquipamentoApi\\EquipamentoApi.csproj|c:\\users\\victor\\documents\\c#\\provageopointer\\equipamentoapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B697408-A4CE-4B99-AAA7-4EC5AE9BDCD1}|EquipamentoApi\\EquipamentoApi.csproj|solutionrelative:equipamentoapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,8 +34,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Documents\\C#\\ProvaGeopointer\\EquipamentoApi\\Program.cs",
+              "RelativeDocumentMoniker": "EquipamentoApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Victor\\Documents\\C#\\ProvaGeopointer\\EquipamentoApi\\Program.cs",
+              "RelativeToolTip": "EquipamentoApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T15:15:07.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Documents\\C#\\ProvaGeopointer\\EquipamentoApi\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "EquipamentoApi\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Victor\\Documents\\C#\\ProvaGeopointer\\EquipamentoApi\\WeatherForecast.cs",
+              "RelativeToolTip": "EquipamentoApi\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T15:15:07.178Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -43,7 +76,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Users\\Victor\\Documents\\C#\\ProvaGeopointer\\EquipamentoApi\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "EquipamentoApi\\Controllers\\WeatherForecastController.cs",
@@ -51,31 +84,30 @@
               "RelativeToolTip": "EquipamentoApi\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T04:18:56.901Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-09T04:18:56.901Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "EquipamentoController.cs",
               "DocumentMoniker": "C:\\Users\\Victor\\Documents\\C#\\ProvaGeopointer\\EquipamentoApi\\Controllers\\EquipamentoController.cs",
               "RelativeDocumentMoniker": "EquipamentoApi\\Controllers\\EquipamentoController.cs",
               "ToolTip": "C:\\Users\\Victor\\Documents\\C#\\ProvaGeopointer\\EquipamentoApi\\Controllers\\EquipamentoController.cs",
               "RelativeToolTip": "EquipamentoApi\\Controllers\\EquipamentoController.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAmwCEAAABNAAAA",
+              "ViewState": "AQIAADMAAAAAAAAAAAAYwEoAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-09T04:18:54.54Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "EquipamentoModel.cs",
               "DocumentMoniker": "C:\\Users\\Victor\\Documents\\C#\\ProvaGeopointer\\EquipamentoApi\\Models\\EquipamentoModel.cs",
               "RelativeDocumentMoniker": "EquipamentoApi\\Models\\EquipamentoModel.cs",
               "ToolTip": "C:\\Users\\Victor\\Documents\\C#\\ProvaGeopointer\\EquipamentoApi\\Models\\EquipamentoModel.cs",
               "RelativeToolTip": "EquipamentoApi\\Models\\EquipamentoModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAoAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-09T04:16:09.905Z",
               "EditorCaption": ""

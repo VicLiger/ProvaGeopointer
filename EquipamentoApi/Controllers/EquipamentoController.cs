@@ -45,12 +45,76 @@ namespace EquipamentoApi.Controllers
             }
             catch (NpgsqlException ex)
             {
-                return BadRequest("Ocorreu um erro ao acessar ro banco de dados");
+                return BadRequest("Ocorreu um erro ao acessar o banco de dados");
             }
             catch (Exception ex)
             {
                 return BadRequest(ex.Message);
             }
         }
+
+
+        [HttpPost]
+        public async Task<IActionResult> AddEquipaments(EquipamentoModel equipament)
+        {
+            try
+            {
+                using (NpgsqlConnection conn = new NpgsqlConnection(_connectionString))
+                {
+                    conn.Open();
+
+                    string query = @"
+                        INSERT INTO equipamentos (Tag, Name, File, State, LastModify)
+                        VALUES (@Tag, @Name, @File, @State, @LastModify)
+                        RETURNING id"; // Retorna o ID do equipamento inserido
+
+                    await conn.ExecuteAsync(query, equipament);
+
+                    return Ok(equipament);
+                }
+            }
+            catch (NpgsqlException ex)
+            {
+                return BadRequest("Ocorreu um erro ao acessar o banco de dados");
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, $"Erro interno do servidor: {ex.Message}");
+            }
+        }
+
+
+        [HttpDelete("{id}")]
+        public async Task<IActionResult> DeleteEquipament(int id)
+        {
+
+
+            try
+            {
+
+                using (NpgsqlConnection conn = new NpgsqlConnection(_connectionString))
+                {
+                    conn.Open();
+
+                    string query = "DELETE FROM equipamentos WHERE id = @id";
+
+                    int remove = await conn.ExecuteAsync(query, id);
+
+                    return Ok("Item com o id @id removido com sucesso");
+
+                }
+
+            }
+            catch (NpgsqlException ex)
+            {
+                return BadRequest("Ocorreu um erro ao acessar o banco de dados");
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, $"Erro interno do servidor: {ex.Message}");
+            }
+
+        }
+
     }
 }

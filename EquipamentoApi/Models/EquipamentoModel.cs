@@ -2,13 +2,14 @@
 {
     public class EquipamentoModel
     {
-        protected EquipamentoModel() { }
+        public EquipamentoModel() { }
 
-        public string Tag { get; private set; }
-        public string Name { get; private set; }
-        public string File { get; private set; }
-        public string State { get; private set; }
-        public DateTime Data { get; private set; }
+        public int Id { get; set; } 
+        public string Tag { get; set; } = string.Empty;
+        public string Name { get; set; } = string.Empty;
+        public string File { get; set; } = string.Empty;
+        public string State { get; set; } = string.Empty;
+        public DateTime LastModify { get; set; } 
 
     }
 }
