@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Victor\\Documents\\C#\\ProvaGeopointer\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7B697408-A4CE-4B99-AAA7-4EC5AE9BDCD1}|EquipamentoApi\\EquipamentoApi.csproj|c:\\users\\victor\\documents\\c#\\provageopointer\\equipamentoapi\\controllers\\equipamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B697408-A4CE-4B99-AAA7-4EC5AE9BDCD1}|EquipamentoApi\\EquipamentoApi.csproj|solutionrelative:equipamentoapi\\controllers\\equipamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7B697408-A4CE-4B99-AAA7-4EC5AE9BDCD1}|EquipamentoApi\\EquipamentoApi.csproj|c:\\users\\victor\\documents\\c#\\provageopointer\\equipamentoapi\\models\\equipamentomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B697408-A4CE-4B99-AAA7-4EC5AE9BDCD1}|EquipamentoApi\\EquipamentoApi.csproj|solutionrelative:equipamentoapi\\models\\equipamentomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7B697408-A4CE-4B99-AAA7-4EC5AE9BDCD1}|EquipamentoApi\\EquipamentoApi.csproj|c:\\users\\victor\\documents\\c#\\provageopointer\\equipamentoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{7B697408-A4CE-4B99-AAA7-4EC5AE9BDCD1}|EquipamentoApi\\EquipamentoApi.csproj|solutionrelative:equipamentoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B697408-A4CE-4B99-AAA7-4EC5AE9BDCD1}|EquipamentoApi\\EquipamentoApi.csproj|c:\\users\\victor\\documents\\c#\\provageopointer\\equipamentoapi\\controllers\\equipamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B697408-A4CE-4B99-AAA7-4EC5AE9BDCD1}|EquipamentoApi\\EquipamentoApi.csproj|solutionrelative:equipamentoapi\\controllers\\equipamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7B697408-A4CE-4B99-AAA7-4EC5AE9BDCD1}|EquipamentoApi\\EquipamentoApi.csproj|c:\\users\\victor\\documents\\c#\\provageopointer\\equipamentoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
@@ -63,13 +63,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Victor\\Documents\\C#\\ProvaGeopointer\\EquipamentoApi\\appsettings.json",
               "RelativeDocumentMoniker": "EquipamentoApi\\appsettings.json",
               "ToolTip": "C:\\Users\\Victor\\Documents\\C#\\ProvaGeopointer\\EquipamentoApi\\appsettings.json",
               "RelativeToolTip": "EquipamentoApi\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-06-09T04:20:21.904Z",
               "EditorCaption": ""
@@ -88,26 +88,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "EquipamentoController.cs",
               "DocumentMoniker": "C:\\Users\\Victor\\Documents\\C#\\ProvaGeopointer\\EquipamentoApi\\Controllers\\EquipamentoController.cs",
               "RelativeDocumentMoniker": "EquipamentoApi\\Controllers\\EquipamentoController.cs",
               "ToolTip": "C:\\Users\\Victor\\Documents\\C#\\ProvaGeopointer\\EquipamentoApi\\Controllers\\EquipamentoController.cs",
               "RelativeToolTip": "EquipamentoApi\\Controllers\\EquipamentoController.cs",
-              "ViewState": "AQIAADMAAAAAAAAAAAAYwEoAAAANAAAA",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAQwIUAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-09T04:18:54.54Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "EquipamentoModel.cs",
               "DocumentMoniker": "C:\\Users\\Victor\\Documents\\C#\\ProvaGeopointer\\EquipamentoApi\\Models\\EquipamentoModel.cs",
               "RelativeDocumentMoniker": "EquipamentoApi\\Models\\EquipamentoModel.cs",
               "ToolTip": "C:\\Users\\Victor\\Documents\\C#\\ProvaGeopointer\\EquipamentoApi\\Models\\EquipamentoModel.cs",
               "RelativeToolTip": "EquipamentoApi\\Models\\EquipamentoModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA3AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-09T04:16:09.905Z",
               "EditorCaption": ""

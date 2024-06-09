@@ -64,8 +64,8 @@ namespace EquipamentoApi.Controllers
                     conn.Open();
 
                     string query = @"
-                        INSERT INTO equipamentos (Tag, Name, File, State, LastModify)
-                        VALUES (@Tag, @Name, @File, @State, @LastModify)
+                        INSERT INTO equipamentos (Tag, Name, File, State)
+                        VALUES (@Tag, @Name, @File, @State)
                         RETURNING id"; // Retorna o ID do equipamento inserido
 
                     await conn.ExecuteAsync(query, equipament);
@@ -75,7 +75,7 @@ namespace EquipamentoApi.Controllers
             }
             catch (NpgsqlException ex)
             {
-                return BadRequest("Ocorreu um erro ao acessar o banco de dados");
+                return BadRequest("Ocorreu um erro ao acessar o banco de dados: " + ex.Message);
             }
             catch (Exception ex)
             {
@@ -100,7 +100,7 @@ namespace EquipamentoApi.Controllers
 
                     int remove = await conn.ExecuteAsync(query, id);
 
-                    return Ok("Item com o id @id removido com sucesso");
+                    return Ok($"Item com o id = {id} removido com sucesso");
 
                 }
 
@@ -115,6 +115,35 @@ namespace EquipamentoApi.Controllers
             }
 
         }
+
+
+
+        [HttpPut]
+        public async Task<IActionResult> UpdateEquipament(EquipamentoModel equipament)
+        {
+            try
+            {
+                using (NpgsqlConnection conn = new NpgsqlConnection(_connectionString))
+                {
+                    conn.Open();
+
+                    string query = "UPDATE equipamentos SET tag = @Tag, name = @Name, file = @File, state = @State WHERE id = @Id";
+                    await conn.ExecuteAsync(query, equipament);
+
+                    return Ok("Objeto atualizado: " + equipament);
+                }
+            }
+            catch (NpgsqlException ex)
+            {
+                return BadRequest("Ocorreu um erro ao acessar o banco de dados: " + ex.Message);
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, $"Erro interno do servidor: {ex.Message}");
+            }
+        }
+
+
 
     }
 }
